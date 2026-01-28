@@ -9,8 +9,8 @@
     "Make sure your device is registered."
   ],
 
-  "button_login": "Login",
-  "button_admin": "Admin",
+  "button_login": 06cf26fa5b0ece9c",
+  "button_admin": "1234",
   "button_copy": "Copy ID",
   "admin_url": "https://taime.store",
 
