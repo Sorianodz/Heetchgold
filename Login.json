@@ -20,6 +20,11 @@
       "password": "1122",
       "expire_date": "2099-12-31"
     },
+{
+      "device_id": "4e3521d61c5c02ec",
+      "password": "123456",
+      "expire_date": "2099-12-31"
+    },
     {
       "device_id": "3c60c22d6fd16edf",
       "password": "3344",
