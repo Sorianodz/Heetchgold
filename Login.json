@@ -1,13 +1,18 @@
+{
+  "dialog_enable": true,
+  "online_enable": true,
+
+  "title": "Premium Login",
+  "descriptions": [
     "Welcome to Premium Access.",
     "Enter your password to continue.",
     "Make sure your device is registered."
-  ]
- "button_login": "Login",
- "button_admin": "Admin",
- "button_copy": "Copy ID",
- "admin_url": "https://taime.store",
- "device_section": [
-    {
+  ],
+
+  "button_login": "Login",
+  "button_admin": "Admin",
+  "button_copy": "Copy ID",
+  "admin_url": "https://taime.store",
       "device_id": "e5e7120a2cadc6a1",
       "password": "1122",
       "expire_date": "2099-12-31"
